@@ -25,7 +25,7 @@
 using namespace std;
 
 // Version
-string version = "2022.03.27";
+string version = "2022.03.27.1";
 
 // Errors
 string error_input_flag            = "Wrong or missing input file.";
@@ -50,7 +50,7 @@ string help_version = "-v     --version   Show version";
 string help_input   = "-i     --input     Input file";
 string help_output  = "-o     --output    Output file";
 string help_prefix  = "-p     --prefix    Prefix to remove";
-string help_suffix  = "-s     --suffix     Suffix to remove";
+string help_suffix  = "-s     --suffix    Suffix to remove";
 
 int get_help(){
     cout 
