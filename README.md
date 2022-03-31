@@ -1,6 +1,6 @@
 # Prefix-Suffix-Remover
 ## Info:
-- Program remove suffix and/or prefix from file.
+- Program removes suffix and/or prefix from file.
 ## Build:
 ```sh
 g++ -o psr psr.cpp
