@@ -10,6 +10,7 @@ g++ -o psr psr.cpp
 |---|---|---|
 |-h|--help|Show help|
 |-v|--version|Show version|
+|-i|--input|Input file|
 |-o|--output|Output file|
 |-p|--prefix|Prefix to remove|
 |-s|--suffix |Suffix to remove|
